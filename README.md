@@ -106,7 +106,6 @@ All of the information from WIkipedia is used under the [Creative Commons Licens
 
 ### Hardware Related Sites ###
 - [CPUville - Designing, Building, and Selling Obsolete Computers](http://cpuville.com/index.html)
-- [Vintage Computing (deramp.com)](https://deramp.com/)
 - [Small Computer Central (Kits and more)](https://smallcomputercentral.com)
 - [Obsolescence Guaranteed](https://obsolescence.wixsite.com/obsolescence)
 - [RomWBW](https://github.com/wwarthen/RomWBW)
@@ -132,6 +131,7 @@ All of the information from WIkipedia is used under the [Creative Commons Licens
 - [Steve's Old Computer Museum](https://oldcomputers.net/)
 - [Virtue of 8-bit era](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight)
 - [More 8-bit era micros](https://thechipletter.substack.com/p/eight-more-8-bit-era-microprocessors)
+- [Vintage Computing (deramp.com)](https://deramp.com/)
 - [retrotechnology.net](https://www.retrotechnology.com)
 - [DigiBarn Computer Museum](https://www.digibarn.com/collections/)
 - [Z-80 and CP/M Resources](http://www.z80.eu/)
