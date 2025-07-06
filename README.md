@@ -58,6 +58,7 @@ These are PDFs that I found and downloaded for my own reference.
 - [Aztec C Users Manual](References/Aztec_C_1.06_User_Manual_Mar84.pdf)
 - [Turbo Pascal Reference Manual](References/TURBO_Pascal_Reference_Manual_CPM_Version_3_Dec88.pdf)
 - [ED - Line Editor Reference Manual](References/ED.pdf)
+- [CP/m 1.4 Interface Guide](References/CPM_1_4_Interface_Guide.pdf.crdownload)
 
 ## Reference Links ##
 Here are the, currently active, links to all the sites on the web where I gathered information, inspiration and other resources.
@@ -137,3 +138,4 @@ All of the information from WIkipedia is used under the [Creative Commons Licens
 - [Z-80 and CP/M Resources](http://www.z80.eu/)
 - [Z-80 Official support page](http://www.z80.info/)
 - [50 Years of Personal Computer OS](https://computerhistory.org/blog/fifty-years-of-the-personal-computer-operating-system/)
+- [The 1979 CP/M OS— How Does It Look Today?](https://dmitryelj.medium.com/the-1979-cp-m-os-how-does-it-look-like-today-be7caf13da6c)
