@@ -140,3 +140,7 @@ All of the information from WIkipedia is used under the [Creative Commons Licens
 - [Z-80 Official support page](http://www.z80.info/)
 - [50 Years of Personal Computer OS](https://computerhistory.org/blog/fifty-years-of-the-personal-computer-operating-system/)
 - [The 1979 CP/M OS— How Does It Look Today?](https://dmitryelj.medium.com/the-1979-cp-m-os-how-does-it-look-like-today-be7caf13da6c)
+
+### Some Discord Servers ###
+[CP/M Discord Server](https://discord.gg/se2KH2zPAh)
+[My Development Server](https://discord.gg/GrswTpS)
