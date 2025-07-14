@@ -1,7 +1,7 @@
 # Programming-With-CPM #
 These are the files supporting a [series of blog posts](https://mggates.blogspot.com/2025/04/a-study-in-cpm.html) on programming for CP/M with example programs.
 
-There is a [slide show](CPM_Programming_Slides.odp) that accompanies the [detailed talk](CPM_Programming_Talk.odt) that I presented at [BoatFest 2025](https://www.ticketsource.com/whats-on/west-virginia/social-event-space/international-retro-computer-expo-2025/e-gxgoez) an international retro-computer festival.
+There is a [slide show](CPM_Programming_Slides.pdf) that accompanies the [detailed talk](CPM_Programming_Talk.pdf) that I presented at [BoatFest 2025](https://www.ticketsource.com/whats-on/west-virginia/social-event-space/international-retro-computer-expo-2025/e-gxgoez) an international retro-computer festival.
 
 ## Sample Programs ##
 In the talk we show several Hello World programs that we compile and run.
