@@ -1,4 +1,4 @@
-# Programming-With-CPM #
+# Programming-With-CPMM #
 These are the files supporting a [series of blog posts](https://mggates.blogspot.com/2025/04/a-study-in-cpm.html) on programming for CP/M with example programs.
 
 There is a [slide show](CPM_Programming_Slides.pdf) that accompanies the [detailed talk](CPM_Programming_Talk.pdf) that I presented at [BoatFest 2025](https://www.ticketsource.com/whats-on/west-virginia/social-event-space/international-retro-computer-expo-2025/e-gxgoez) an international retro-computer festival.
@@ -13,7 +13,7 @@ Using the CP/M provided assembler and loader we can run a simple Hello World pro
 - **Run:** hello
 
 ### BASIC ###
-With BASIC we are using both the MBASIC interpriter and the Microsoft BASCOM copiler with the same code.
+With BASIC we are using both the MBASIC interpreter and the Microsoft BASCOM compiler with the same code.
 - [source](HelloWorld/HELLO.BAS)
 - **Run the interpreter:** mbasic hello.bas
 - **Compile:** BASCOM =HELLO /E
@@ -21,7 +21,7 @@ With BASIC we are using both the MBASIC interpriter and the Microsoft BASCOM cop
 - **Run:** hello
 
 ### Pascal ###
-Pascal is the Borland Turbo Pascal IDE.  This tool allows you to edit, compile, and run without ever leaving to tool.
+Pascal is the Borland Turbo Pascal IDE. This tool allows you to edit, compile, and run without ever leaving to tool.
 - [source](HelloWorld/HELLO.PAS)
 - **Start the IDE:** turbo hello.pas
 
